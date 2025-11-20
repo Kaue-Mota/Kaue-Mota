@@ -53,15 +53,6 @@
 
 ---
 
-### Commits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kaue-Mota/Kaue-Mota/output/github-contribution-grid-snake.svg" />
-</div>
-
-
----
-
 ### 📫 Como falar comigo
 
 - 💌 Email: Pckaue1234@gmail.com
