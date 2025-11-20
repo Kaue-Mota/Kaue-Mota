@@ -41,19 +41,19 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Kaue-Mota&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
   <br/>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Mota&theme=tokyonight"
     alt="GitHub Streak"
   />
 </div>
 
 ---
 
-### 🐍 Cobrinha comendo meus commits
+### 🐍 Cobrinha 
 
 <div align="center">
   <img 
@@ -66,9 +66,8 @@
 
 ### 📫 Como falar comigo
 
-- 💌 Email: **seuemail@exemplo.com**
-- 💼 LinkedIn: [Seu Nome](https://www.linkedin.com/in/SEU-LINK/)
-- 🌐 Portfólio: *(coloca aqui quando tiver pronto 😉)*
+- 💌 Email: Pckaue1234@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/kauê-ferreira-mota-06b625305
 
 ---
 
