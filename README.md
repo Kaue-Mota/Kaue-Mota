@@ -56,10 +56,7 @@
 ### Commits
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Kaue-Mota/Kaue-Mota/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+  <img src="https://raw.githubusercontent.com/Kaue-Mota/Kaue-Mota/output/github-contribution-grid-snake.svg" />
 </div>
 
 
