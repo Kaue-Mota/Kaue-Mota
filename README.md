@@ -57,10 +57,11 @@
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Kaue-Mota/Kaue-Mota/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
   />
 </div>
+
 
 ---
 
