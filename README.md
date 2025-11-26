@@ -1,21 +1,21 @@
 <h1 align="center">Olá, eu sou o Kauê 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação | ADS | Full Stack em construção 🚀
+  Desenvolvedor em formação | ADS | Full Stack em construção 
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Focado em **desenvolvimento web** (front-end e, aos poucos, back-end)
+- 💻 Focado em **desenvolvimento web** (FullStack)
 - 📚 Sempre estudando novas tecnologias e boas práticas
 - 🎯 Objetivo: me tornar um dev full stack e criar soluções úteis pra vida real
 
 ---
 
-### 🛠️ Tecnologias que uso/estudo
+### Tecnologias que uso/estudo
 
 <p align="left">
   <!-- HTML -->
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+
 
 <div align="center">
   <img 
