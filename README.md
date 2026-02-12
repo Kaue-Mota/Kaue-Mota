@@ -14,7 +14,7 @@
 
 ---
 
-### Tecnologias que uso/estudo
+### Tecnologias que uso
 
 <p align="left">
   <!-- HTML -->
