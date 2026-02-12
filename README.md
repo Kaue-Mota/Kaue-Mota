@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kauê 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação | ADS | Full Stack em construção 
+  Desenvolvedor Full Stack| ADS | Full Stack em construção 
 </p>
 
 ---
