@@ -8,10 +8,9 @@
 
 ### Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 💻 Focado em **desenvolvimento web** (FullStack)
 - 📚 Sempre estudando novas tecnologias e boas práticas
-- 🎯 Objetivo: me tornar um dev full stack e criar soluções úteis pra vida real
 
 ---
 
