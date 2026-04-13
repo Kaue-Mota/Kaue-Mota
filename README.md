@@ -53,10 +53,10 @@ Fundei o **Eternare** — plataforma SaaS em produção com pagamentos via Strip
 **[Eternare](https://eternareit.com)** — SaaS em produção  
 Plataforma de páginas digitais com pagamentos Stripe, upload Cloudflare R2, envio de email com QR Code e formulário multistep.
 
-**[K Móveis Planejados](https://kmoveisplanejados.com)** — Freelance  
+**[K Móveis Planejados](https://kmoveis.vercel.app/)** — Freelance  
 Site institucional com galeria filtrável, catálogo de texturas MDF e integração com WhatsApp.
 
-**[L&L Alumínio](https://lelaluminio.com)** — Freelance  
+**[L&L Alumínio](https://lelaluminio.vercel.app/)** — Freelance  
 Showroom digital com catálogo por 8 categorias, swatches de cor e testes automatizados com Vitest.
 
 ---
