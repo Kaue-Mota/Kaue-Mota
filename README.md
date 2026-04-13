@@ -1,62 +1,57 @@
-<h1 align="center">Olá, eu sou o Kauê 👋</h1>
+<h1 align="center">Kauê Ferreira Mota</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack| ADS | Full Stack em construção 
+  Desenvolvedor Full Stack Júnior · Fundador do <a href="https://eternareit.com">Eternare</a>
+</p>
+
+<p align="center">
+  <a href="mailto:pckaue1234@gmail.com">pckaue1234@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/kauê-ferreira-mota-06b625305">LinkedIn</a> ·
+  <a href="https://eternareit.com">eternareit.com</a>
 </p>
 
 ---
 
 ### Sobre mim
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 💻 Focado em **desenvolvimento web** (FullStack)
-- 📚 Sempre estudando novas tecnologias e boas práticas
+Desenvolvedor Full Stack Júnior formado em ADS, com experiência em projetos reais utilizando React, Node.js, PostgreSQL e Prisma. Fundei o **Eternare** — plataforma SaaS em produção com pagamentos via Stripe, upload para Cloudflare R2 e envio automatizado de emails. Foco em boas práticas, performance e organização de código.
 
 ---
 
-### Tecnologias que uso
+### Stack
 
-<p align="left">
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
-       alt="HTML5" width="48" height="48"/>
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
-       alt="CSS3" width="48" height="48"/>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-       alt="JavaScript" width="48" height="48"/>
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-       alt="React" width="48" height="48"/>
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-       alt="TypeScript" width="48" height="48"/>
-</p>
+**Front-end:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Vite
+
+**Back-end:** Node.js, Express, PostgreSQL, Prisma ORM, API REST
+
+**Infra & Deploy:** Docker, Vercel, Railway, Cloudflare R2
+
+**Ferramentas:** Git, GitHub, Stripe, Resend, Zod, Vitest
 
 ---
 
+### Projetos em destaque
 
+**[Eternare](https://eternareit.com)** — SaaS em produção  
+Plataforma de páginas digitais personalizadas com fluxo completo de pagamento (Stripe Webhook), upload de fotos para Cloudflare R2, envio automático de email com QR Code via Resend e formulário multistep com validação via Zod.  
+`Vite` `React` `TypeScript` `Tailwind` `Node.js` `Express` `Prisma` `PostgreSQL` `Stripe`
+
+**[K Móveis Planejados](https://kmoveisplanejados.com)** — Freelance  
+Site institucional com design mobile-first, galeria filtrável por categoria, catálogo de texturas MDF via JSON e integração com WhatsApp.  
+`React 19` `TypeScript` `Tailwind CSS 4` `Vite` `React Router DOM`
+
+**[L&L Alumínio](https://lelaluminio.com)** — Freelance  
+Showroom digital com catálogo filtrável por 8 categorias, swatches de variantes de cor e testes automatizados.  
+`React 18` `TypeScript` `Tailwind` `shadcn/ui` `TanStack Query` `React Hook Form` `Zod` `Vitest`
+
+---
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kaue-Mota&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaue-Mota&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Mota&theme=tokyonight"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Mota&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📫 Como falar comigo
-
-- 💌 Email: Pckaue1234@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/kauê-ferreira-mota-06b625305
-
----
-
-> “Código bom é aquele que você entende quando volta nele depois de meses.”
+> "Código bom é aquele que você entende quando volta nele depois de meses."
