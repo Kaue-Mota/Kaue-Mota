@@ -8,6 +8,9 @@
   <a href="mailto:pckaue1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pckaue1234-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+   <a href="https://portifolio-kaue.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-portifolio--kaue.vercel.app-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/kauê-ferreira-mota-06b625305">
     <img src="https://img.shields.io/badge/LinkedIn-Kauê Mota-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -49,6 +52,9 @@ Fundei o **Eternare** — plataforma SaaS em produção com pagamentos via Strip
 ---
 
 ### Projetos em destaque
+
+**[Portfólio](https://portifolio-kaue.vercel.app)** — pessoal  
+Portfólio com projetos, stack e formas de contato.
 
 **[Eternare](https://eternareit.com)** — SaaS em produção  
 Plataforma de páginas digitais com pagamentos Stripe, upload Cloudflare R2, envio de email com QR Code e formulário multistep.
